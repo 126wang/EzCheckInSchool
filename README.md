@@ -68,7 +68,7 @@ Fork的项目->Settings->Action->I understand... 开启Actions
 
 ## 友情链接
 
-https://github.com/YooKing/HAUT_autoCheck - 学习Python语法参考 
+https://github.com/YooKing/HAUT_autoCheck - 学习Python语法参考    
 
 https://github.com/LovelyWhite/Haut-AutoCheckin - iOS捷径版
 
